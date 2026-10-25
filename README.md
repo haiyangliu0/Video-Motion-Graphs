@@ -1,6 +1,6 @@
 # Video Motion Graphs
 
-[Project](https://h-liu1997.github.io/Video-Motion-Graphs/) · [Paper](https://arxiv.org/abs/2503.20218) · [Models and examples](https://huggingface.co/H-Liu1997/Video-Motion-Graphs)
+[Project](https://haiyangliu0.github.io/Video-Motion-Graphs/) · [Paper](https://arxiv.org/abs/2503.20218) · [Models and examples](https://huggingface.co/H-Liu1997/Video-Motion-Graphs)
 
 Music-driven video motion graphs with pose-guided diffusion interpolation.
 This release includes graph construction and search, raw-video preprocessing,
@@ -12,7 +12,7 @@ Install `uv` first, then run every command below from the repository root. The v
 Linux x86_64, Python 3.10, PyTorch 2.2.2 / CUDA 12.1 and one NVIDIA H100 80GB.
 
 ```sh
-git clone https://github.com/H-Liu1997/Video-Motion-Graphs.git
+git clone https://github.com/haiyangliu0/Video-Motion-Graphs.git
 cd Video-Motion-Graphs
 uv venv --python 3.10 .venv
 source .venv/bin/activate
