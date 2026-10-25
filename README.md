@@ -1,6 +1,6 @@
 # Video Motion Graphs
 
-[Project](https://haiyangliu0.github.io/Video-Motion-Graphs/) · [Paper](https://arxiv.org/abs/2503.20218) · [Models and examples](https://huggingface.co/H-Liu1997/Video-Motion-Graphs)
+[Project](https://haiyangliu0.github.io/Video-Motion-Graphs/) · [Paper](https://arxiv.org/abs/2503.20218) · [Models and examples](https://huggingface.co/haiyangliu0/Video-Motion-Graphs)
 
 Music-driven video motion graphs with pose-guided diffusion interpolation.
 This release includes graph construction and search, raw-video preprocessing,
@@ -109,7 +109,7 @@ by these checks.
 The raw example run processed 3,051 frames, built a 762-node / 1,059-edge graph,
 generated three new transitions and produced an 18-second, 768×768, 30fps video
 with audio in 12m02s. The two training commands completed in 3m10s.
-[View the reproduced video](https://huggingface.co/H-Liu1997/Video-Motion-Graphs/resolve/main/examples/generated_demo.mp4).
+[View the reproduced video](https://huggingface.co/haiyangliu0/Video-Motion-Graphs/resolve/main/examples/generated_demo.mp4).
 
 ## License
 
